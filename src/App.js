@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Component1 from './Component1';
-import Hello from 'Hello.js';
+import hello from './hello.js';
 
 function App() {
   return (

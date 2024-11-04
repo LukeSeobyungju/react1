@@ -1,7 +1,7 @@
 import 'hello.css';
 
-function Hello(props){
+function hello(props){
     return (<h1>Hello World !</h1>);
 }
 
-export default Hello;
+export default hello;
